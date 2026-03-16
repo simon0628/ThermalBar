@@ -2,7 +2,7 @@
 
 A minimal macOS menu bar app that shows CPU temperature, CPU usage, and GPU usage at a glance.
 
-![ThermalBar screenshot](screenshot_clean.png)
+![ThermalBar screenshot](screenshot.png)
 
 Temperature color shifts from neutral → orange → red as heat rises.
 
